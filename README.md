@@ -6,6 +6,7 @@ In this project, I build an **Todos App** using ReactJS that allows users to add
 <summary>Click to view</summary>
 
 - Download dependencies by running `npm install`
+- Install `npm install redux react-redux`
 - Start up the app using `npm start`
 </details>
 
