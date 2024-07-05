@@ -18,3 +18,5 @@ small devices
 ![Screenshot 2024-07-05 104302](https://github.com/mvishal07/Todos-App/assets/108283119/5be81e29-2dc3-4e1a-89d9-a9f8089f4916)
 
 <br/>
+
+![Screenshot 2024-07-05 104333](https://github.com/mvishal07/Todos-App/assets/108283119/82f3b7f0-0f94-4473-870b-dfa0da1bb3d8)
