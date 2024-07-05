@@ -1,0 +1,16 @@
+.bg-container {
+  background-image: linear-gradient(#d09c95, #fd715f);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+@media all and (max-width: 768px) {
+  .bg-container {
+    display: flex;
+
+    height: 100vh;
+  }
+}

@@ -1,0 +1,50 @@
+.todos-container{
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    list-style: none;
+
+}
+
+.todo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0px 2px 11px 0px #bfbfbf;
+    width: 90%;
+    height:70px ;
+    border-radius: 12px;
+    margin-bottom: 10%;
+    padding:2%;
+}
+.delete-icon{
+    background-color: transparent;
+    border: 0px;
+    transition: 0.3s;
+}
+.delete-icon:hover{
+    color: red;
+    
+}
+.edit-icon{
+    background-color: transparent;
+    border: 0px;
+    transition: 0.3s;
+}
+.edit-icon:hover{
+    color: green;
+}
+.todo-text{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+
+@media all and  (max-width:768px) {
+   .todo{
+    height: 50px;
+   }
+   svg{
+    height: 18px;
+    width: 20px;
+   }
+  }
